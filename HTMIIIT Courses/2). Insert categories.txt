@@ -1,9 +1,0 @@
-
-/** this populates the Category table with a few categories **/
-INSERT INTO dbo.Category 
-VALUES (1, 'Thriller'),
- (2, 'Childrens Fiction'),
- (3, 'Young Adult Fiction'),
- (4, 'Romance'),
- (5, 'Science Fiction')
-

@@ -1,8 +1,0 @@
-/** insert a few authors **/
-INSERT INTO dbo.Authors
-VALUES (1, 'J.K.','Rowling','07/31/1965','British'),
- (2, 'Dan','Brown','6/22/1964','American'),
- (3, 'E.L.','James','3/7/1963','British'),
- (4, 'Stephenie','Meyer','12/24/1973','American'),
- (5, 'Steig','Larsson','8/15/1954','Swedish')
-
